@@ -1,0 +1,26 @@
+
+
+.back{
+    margin-bottom:30px;
+
+
+
+}
+
+
+.movie-app{
+    display:flex;
+    overflow-x:scroll;
+    flex-wrap:nowrap;
+    
+    scrollbar-width: none;
+    background-color:black;
+   
+}
+.movieBox{
+    
+}
+
+.images{
+    margin:.4%;
+}

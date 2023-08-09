@@ -1,0 +1,25 @@
+
+.containers{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top:20px;
+}
+
+
+.text{
+    font-family:roboto;
+    text-align:center;
+
+}
+
+.para{
+    font-family:roboto;
+    text-align:center;
+}
+
+.notFoundImage{
+    height:50%;
+    width:50%;
+    margin:auto;
+}
